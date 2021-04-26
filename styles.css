@@ -7,5 +7,6 @@
 }
 
 .icon:hover {
+  padding-bottom: 3px;
   background-position-y: -300px;
 }
